@@ -1,5 +1,5 @@
 sdsdjs开始==dev1-9=yuandiuan===创建文件534535431111fhidsuhiuhnfsdf
-fmdkfmkd创建了git_dev分支进行修改
+fmdkfmkd创建了git_de
 将git_dev分支合并到本地mastr,在master上push
 在远端进行修改,模拟同事修改
 pull下来后无冲突,继续修改
